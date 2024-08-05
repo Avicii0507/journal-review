@@ -1,0 +1,165 @@
+---
+title: "Can Treat-To-Target strategy be a possible alternative for High Intensity Statin?"
+format: revealjs
+author: "Soohyun Moon"
+---
+# 연구의 개요 및 목적
+## 관상동맥질환에 대한 기존의 치료
+1. 관상동맥질환->다른 심혈관질환의 고위험군 또는 초고위험군
+2. LDL-C 수치의 감소와 비례해 주요 심혈관 사건들의 수치가 감소
+3. 이에 착안해 High intensity의 Statin을 LDL-C 목표 수치를 설정하지 않은 상태에서 지속적으로 투여
+
+## 관상동맥질환에 대한 새 치료법
+Target to Treat therapy
+
+-환자의 LDL-C 목표수치를 설정하고 Moderate Intensity의 Statin 투여에서 시작해 LDL-C 목표수치에 도달할 수 있도록 상황에 맞춰 Statin 투여를 조절하는 방법
+
+::: {.panel-tabset}
+
+### 기존 치료의 단점
+1. 장기 투여 시 statin의 부작용 우려됨
+2. 사람마다 약물 수용도가 다르다는 점을 간과
+
+### 새 치료의 장점
+1. 개개인에 최적화된 접근방식을 통해 부작용과 약물 수용도로 인한 문제 최소화
+2. 환자와 의료진의 소통을 촉진해 치료에 대한 환자의 협조
+
+:::
+
+## 이 연구의 목적
+새 치료방식은
+
+1. 무작위적인 임상 실험을 통해 검증받지 않아 증거가 부족함
+2. 관상동맥질환을 가진 환자들을 상대로 직접적인 비교를 거치지 않음
+
+-> 3년 동안 임상적 결과를 관찰하였을 때 새 치료방식이 기존의 치료방식보다 열등하지 않다는 것을 비열등성 검정을 통해서 증명!
+
+# 연구의 방법론
+## 연구 설계 및 규모
+::::{.columns}
+
+:::{.column width="70%"}
+연구 설계
+
+-12개의 연구 지점에서 연구자가 무작위화, open-label, 비열등성 검정
+
+-Data and Safety Monitoring Board를 통해 환자의 안전 모니터링
+
+-Cardiovascular Research Center에서 연구 데이터 관리 및 연구 방향 조정
+:::
+
+:::{.column width="30%"}
+연구 규모
+
+-관상동맥질환을 가진 4400명의 환자를 대상으로 3년에 걸쳐 예후를 추적함
+:::
+
+::::
+
+## 연구 표본의 무작위화
+
+::: {.panel-tabset}
+
+### 일차 무작위화
+1.LDL-C 수준이 100mg/dL보다 큰지
+
+2.급성 관상동맥 질환이 있는지
+
+3.당뇨가 있는지
+
+를 고려해 4명~ 6명의 Block으로 무작위배정
+두가지 치료방법 중 무엇을 이용할지 1:1 배정
+
+### 이차 무작위화
+Block내에서 무작위로 Rosuvastatin과 Atrovastatin 중 무엇을 투약할지 1:1 배정
+
+### 무작위화 방법
+외부 프로그래머를 통해 무작위화 과정을 진행하고 이 무작위화 과정을 내부에서 검증함
+
+:::
+
+## 표본별 치료 방법{.smaller}
+
+Treat to target group에서는
+
+::: {.incremental}
+1) Statin 처음 투여: 중등도 statin
+2) Statin 투약 중: LDL-C 수치가 70mg/dL 이하면 statin 농도 유지, 이상이면 농도 증가
+3) Follow up에서는 LDL-C 수치가 목표 범위인 50-70mg/dL 이상이면 statin 농도 증가, 범위 내이면 농도 유지, 이하이면 농도 감소
+:::
+
+
+
+High Intensity statin group에서는
+
+::: {.incremental}
+1) LDL-C 수치와 관계없이 고등등도 statin 지속 투여
+:::
+
+::: aside
+1) 중등도 statin은 rosuvastatin 10mg, atorvastatin 20mg
+2) 고등도 statin은 rosuvastatin 20mg, atorvastatin 40mg
+3) LDL-c 등 지질 검사와와 관련된  Follow up은 초기시점 기준 6주, 12개월, 24개월, 36개월에 시행
+:::
+
+## Study End point
+
+::: {.panel-tabset}
+
+### 1차 study endpoint
+심장 및 뇌혈관과 관련된 주요 사건
+
+1) 사망
+
+2) 심근경색
+
+3) 뇌경색
+
+4) 관상동맥 재관류술
+
+### 2차 study  endpoint
+1) 당뇨병
+2) 심부전으로 인한 입원
+3) 심각한 정맥 혈전증, 폐색전증
+4) 말초동맥 질환으로 인한 혈관내 재관류술
+5) 대동맥 수술 및 치료
+6) 말기 신질환
+7) 과민반응으로 인한 약물 투약 중단
+8) 백내장 수술
+9) 복합적인 검사 이상 소견
+
+:::
+
+## 연구에 적합한 표본 크기 도출
+
+:::{.incremental}
+
+
+
+1) Treat to Target을 실험군, High Intensity Statin을 대조군으로 하는 비열등성 검정
+
+2) 대조군의 경우 3년 기준 12%가 1차 endpoint에 도달
+
+3) 비열등성 한계: 3%, 유의확률: 0.025, 검정력: 80%
+->3686명
+
+4) 15%를 follow up에 실패 가정/ 두 종류 statin 분배 ->4400명
+
+:::
+
+
+## 연구표본들의 통계학적 분석
+1) Kaplan Meier 생존분석을 통해 3년간 1차 endpoint의 도달 비율을 누적 
+
+
+
+
+
+
+
+
+
+
+
+
+
