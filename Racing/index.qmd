@@ -1,0 +1,300 @@
+---
+title: "Can Moderate Intensity Statin+Ezetimibe be an possible alternative for High Intensity Statin "
+title-slide-attributes: 
+  data-background-image: "RACING Background.png" 
+  data-background-size: contain
+  data-background-opacity: "0.2"
+format: revealjs
+author: "Soohyun Moon"
+
+---
+
+# 배경지식 및 연구 배경
+
+## LDL-C 관련 지식
+
+::: incremental
+1.  LDL-C: Low density Lipoprotein과 Cholesterol의 결합물로 cholesterol을 간에서 전신으로 운반하는 역할을 하지만 혈관에 침전되기 쉽기 때문에 혈관 질환의 원인
+
+2.  Statin: 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitors 로 간 내에서 HMG-CoA의 작용을 억제해 간 세포의 콜레스테롤 합성을 억제하는 약물
+
+3.  Ezetimibe: Niemann-Pick C1-Like 1 Receptor를 억제해 소장의 cholesterol 흡수를 막는 약물. 간으로의 cholesterol 운반과 간 내의 cholesterol 저장량을 감소시켜 혈중 콜레스테롤 수치를 낮춰주는 효과
+:::
+
+## 관련 연구
+
+::: panel-tabset
+### 기존 연구 결과
+
+1.  메타분석을 통한 기존의 무작위화된 연구:
+A)  Statin 단일 약물을 고농도로 투여한 경우보다
+B)  상대적 저농도의 Statin을 Ezetimibe와 병용한 경우 
+LDL-C 수치를 더 잘 감소시킬 수 있음
+
+2.  a는 Statin의 투여로 인한 부작용과 개개인의 약물 수용도 차이 및 내성 문제 감소시킴
+
+### 이번 연구 차별점
+
+1.  기존 연구 중 두 가지 치료 방식에 대해 죽상동맥경화증 환자들의 장기적인 예후 차이를 무작위화해 비교한 임상 실험은 존재하지 않았음
+
+2.  <이번 연구>
+
+연구 대상: 죽상동맥경화증 환자들 3780명
+
+관찰 항목: 효능(주요 심혈관 질환 발생률) 및 안전성
+
+목적: 중등도 Statin+Ezetimibe 투여의의 고등도 Statin 투여에 대한 비열등성을 검정
+:::
+
+# 연구 방법
+
+## 연구 설계 및 연구 표본
+
+::: columns
+::: {.column width="55%"}
+연구 설계
+
+-26개의 임상 센터에서 무작위화, open-label의 형식으로 조사자에 의해 개시된 임상 실험
+
+-Data and Safety Monitoring Board를 통해 환자의 안전 모니터링
+
+-Cardiovascular Research Center에서 연구 데이터 관리 및 연구 방향 조정
+:::
+
+::: {.column width="45%"}
+연구 표본
+
+-참가자: 고등도 statin 치료와 70mg/dL 이하의 LDL-C 수치를 필요로 하는 죽상동맥경화증 환자
+
+-죽상동맥경화증 기준: 심근경색, 급성 관상동맥 증후군, 여러 동맥 재관류술, 뇌경색, 말초동맥 질환 중 하나 이상 발생 경험
+:::
+:::
+
+## 연구 표본의 무작위화
+
+1.  LDL-C 수준이 100mg/dL보다 큰지
+2.  당뇨가 있는지를 고려해
+
+4명~ 6명의 Block으로 외부 프로그래머가 무작위 배정
+
+두가지 치료방법 중 무엇을 이용할지 1:1 배정
+
+::: aside
+중등도 Stain+Ezetimibe: Rosuvastatin 10mg+Ezetimibe 10mg 1일 1회 경구투여
+
+고등도 Statin: Rosuvastatin 20mg 1일1회 경구투여
+:::
+
+## 표본에 따른 연구 과정
+
+1.  연구 중에는 각각의 치료 방식에 대해 투약 농도를 유지하는 것이 강력하게 권장되었음
+
+2.  환자의 건강에 대한 follow up은 2개월, 6개월, 1년, 2년, 3년 시점에 시행됨
+
+3.  LDL-C 수치에 대한 follow up은 1년, 2년, 3년 시점에 시행됨
+
+## 연구 표본 종합 도표
+
+![](RACING%20Figure%201.png)
+
+## Study Endpoint
+
+::: panel-tabset
+### 1차 Endpoint
+
+1.  심혈관질환으로 인한 사망
+2.  주요한 심혈관 사건
+3.  치명적이지 않은 뇌경색
+
+*관상동맥/말초동맥 재관류술 및 심혈관 질환으로 인한 입원 ⊂ 주요한 심혈관 사건
+
+### 2차 Endpoint-Efficacy
+
+1.  follow up 시점에서 LDL-C가 70mg/dL 이하로 내려간 비율
+2.  1차 Endpoint+모든 원인으로 인한 사망의 비율
+3.  연구 기준점으로부터 LDL-C 수치의 감소량
+4.  1차 Endpoint 각각 항목의 비율
+* 최신 기준의 변화에 따라 LDL-C가 55mg/dL 이하로 내려간 비율도 계산
+
+### 2차 Endpoint-Safety
+
+1.  내성 및 부작용으로 인한 투약 중단 및 투약량 감소
+2.  당뇨
+3.  근육, 간, 쓸개 관련 부작용
+4.  암 진단
+:::
+
+# 통계적 분석
+
+## 통계 분석의 목적
+
+1.  1차 Endpoint를 기준으로
+
+Moderate intensity Statin+Ezetimibe 복합 투여의
+
+High intensity Statin에 대한 비열등성 검정
+
+2.  2차 Efficacy Endpoint를 기준으로
+
+Moderate intensity Statin+Ezetimibe 복합 투여의
+
+High intensity Statin에 대한 우월성 검정
+
+## 단측 비열등성 검정을 위한 표본 크기
+
+::: incremental
+1.  Moderate intensity Statin+Ezetimibe 복합 투여를 실험군, High Intensity Statin이 대조군
+
+2.  Simvastatin을 이용한 실험을 참조한 결과 3년 기준 실험군은 13%, 대조군은 14%가 1차 Endpoint 도달 예상
+
+3.  비열등성 한계: 2%, 유의확률: 0.05, 검정력: 80%->3210명
+
+4.  15%가 Follow up에 실패 가정-> 3780명 필요
+:::
+
+## 양측 우월성 검정을 위한 표본 크기
+
+::: incremental
+1.  Moderate intensity Statin+Ezetimibe 복합 투여를 실험군, High Intensity Statin이 대조군
+
+2.  Simvastatin을 이용한 실험을 참조한 결과 3년 기준 LDL-C가 70mg/dL 이하에 도달한 비율이 실험군은 70%, 대조군은 50%로 추정
+
+3.  유의확률: 0.05, 검정력: 80%, 15%가 Follow up에 실패 가정-> 220명 필요
+
+4.  단측 비열등성 검정을 위한 표본 크기만으로도 충분
+:::
+
+## 통계 분석 방식
+
+1.  1차 Endpoint 분석: Kaplan-Meier Curve를 통한 생존 분석
+2.  1차 Endpoint의 비열등성 검정 방식: Log-rank test 
+3. 심혈관 질환 관련 Hazard ratio(CI 95%)는 Cox 회귀 분석으로 추정
+4. 2차 Efficacy endpoint(1차 Endpoint+모든 원인으로 인한 사망): Log rank test(단, 다중성을 고려한 보정 X)
+
+::: aside
+*1차 Endpoint에 대한 비열등성 검정(유의확률=0.05)에서 실험 결과가 도출된 이후 유의확률을 0.025로 설정해 추가적인 분석을 진행
+
+*실험군과 대조군에 대한 분석은 중도 하차자를 포함한 INTENTION TO TREAT POUPULATION에서 시행됨
+:::
+
+# Results
+
+## 그룹별 연구에 영향을 주는 조절 변수의 일치성
+
+![](RACING%20Table%201.png)
+
+## 1차 Endpoint의 생존 분석
+
+![](RACING%20Figure%202.jpg)
+
+## Endpoint 중 심혈관 질환의 발생 비율에 대한 표
+
+![](Racing%20Table%202.png)
+
+## 실험 결과-Endpoint 중 심혈관 질환의 발생 비율
+
+1.  3년간 1차 Endpoint의 도달 비율은
+
+실험군은 9.1%, 대조군은 9.9%로 나타나 비열등성이 검정됨(단측검정, p=0.05&p=0.025)
+
+2.  심혈관 질환의 발생비율에 대한 Hazard ratio의 경우
+
+1차 Endpoint, 2차 Endpoint, 세부항목 Endpoint에 대해서
+
+Cox 회귀분석의 귀무가설이 기각되지 않아 집단별 유의미한 차이는 없음.
+
+## 2차 Endpoint 중 LDL-C 수치에 대한 표
+
+![](RACING%20Table%203.png)
+
+## 실험결과-LDL-C 수치 비율(2차 Endpoint)
+
+::: {.panel-tabset}
+### 기준: 70mg/dL 이하인 비율
+1. 실험군은 1년차에는 73%, 2년차에는 75%, 3년차에는 72% 였고
+대조군은 1년차에 55%, 2년차에에는 60%, 3년차에는 58%였다.
+
+2. 모든 시점에서 p<0.0001로 실험군의 우월성이 검증됨됨
+
+### 기준: 55mg/dL 이하인 비율
+1. 실험군은 1년차에는 42%, 2년차에는 45%, 3년차에는 42%였고
+대조군은 1년차에 25%, 2년차에는 29%, 3년차에는 25%였다.
+
+2. 모든 시점에서서 귀무가설이 기각되어 실험군의 우월성이 검증됨
+:::
+
+*3년치 LDL-C 수치의 평균의 경우 실험군은 58mg/dL, 대조군은 66mg/dL로 p<0.0001로 실험군의 우월성이 검증됨
+
+## 2차 Endpoint 중 Safety에 대한 표
+
+![](RACING Table 4.png)
+
+## 실험 결과-2차 Safety Endpoint
+
+-부작용/내성으로 인해 투약 중단 or 투약량을 줄인 경우
+
+실험군의 경우 4.8%, 대조군의 경우 8.2%
+
+p<0.0001로 실험군의 안전성의 우월성이 검증됨
+
+# Discussion
+
+## 전반적으로 도출된 결론
+
+::: {.incremental}
+1. 실험군은 대조군에 비해 심혈관질환과 관련된 1차 Endpoint의 발생률에서 비열등성이 검정됨
+
+2. 실험군과 대조군은 심혈관질환과 관련된 1차 및 2차 Endpoint 및 세부 항목들의 위험비에서 통계적으로 유의미한 차이를 보이지 않았다.
+
+3. 실험군은 대조군에 비해 70mg/dL 또는 55mg/dL 이하의 LDL-C 수치를 가진 비율이 유의미하게 높았다.
+
+4. 실험군은 대조군에 비해 3년간의 LDL-C 수치가 유의미하게 낮았다.
+
+5. 실험군은 대조군에 비해 부작용이나 내성으로 인한 문제의 비율이 유의미하게 낮았다.
+:::
+
+## 이번 연구의 의의 및  기존 연구와의 차이이
+
+Moderate Intensity Statin+Ezetimibe가 High Intensity Statin에 비해
+
+1. 안전성은 높으며
+
+2. 심혈관 질환의 발생 방지 측면에서도 비열등하고
+
+3. LDL-C 수치를 낮추는 효과는 우월함
+
+을 죽상동맥경화증 환자에 대해 장기적 관점에서 증명
+
+:::aside
+기존의 연구는 실험군과 대조군의 Statin 농도가 동일한 경우이던지, 실험군과 대조군은 이 실험과 같았지만 LDL-C 수치에만 초점을 맞춘 연구였음
+:::
+## 참조할 다른 최신 연구 결과들
+
++최신 가이드라인이 55mg/dL 이하의 LDL-C 수치와 50% 정도의 LDL-C 감소를 동시에 추구한다는 점
+
++LDL-C 수치의 감소가 심혈관 사건의 발생률을 비례적으로 줄인다는 점
+
++고령, 여성, 비만, 당뇨, 갑상선 기능 항진증 환자 Statin 내성 높음
+
+-> 이번 연구의 장점을 부각
+
+
+## 이번 연구의 한계
+1. 환자의 Group이 공개된 Open label
+2. 실험군과 대조군 모두 1차 Endpoint 발생률이 예상보다 낮게 나타났고 이에 따라 기존에 설정된 비열등성 한계(2%)의 수치가 지나치게 큰 것일 수 있음
+3. 1차 Endpoint의 각 항목(사망, 주요 심혈관 사건건, 치명적이지 않은 뇌경색)의 사건 수가 작아 비교가 어려움
+
+# Conclusion
+
+# Moderate Intensity Statin+Ezetimibe can be a possible alternative for High Intensity Statin!
+
+
+
+
+
+
+
+
+
+
+
