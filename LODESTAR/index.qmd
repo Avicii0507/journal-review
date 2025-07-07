@@ -4,7 +4,7 @@ title-slide-attributes:
   data-background-image: "LODESTAR Background.png"
   data-background-opacity: "0.2"
   data-background-size: contain
-author: "Soohyun Moon"
+author: "서울대학교 치의학대학원 본과 3학년 Soohyun Moon"
 format: revealjs
 ---
 # 연구의 개요 및 목적
